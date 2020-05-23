@@ -1,4 +1,4 @@
-title:            프로그래밍
+title:            신나게 프로그래밍
 description:      즐겁고 신나게
 disqus_shortname: 
 reading_time:     true
@@ -9,10 +9,10 @@ url: https://givefun.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           개발프로
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            "반갑습니다. 프로그래밍의 즐거움을 합께 나눠요."
+  email:          kgamestudy@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
