@@ -1,7 +1,14 @@
 # Menu navigation links
 
-- title: Theme Setup
-  url: /theme-setup/
+# - title: 
+#  url: /theme-setup/
 
-- title: External Link
-  url: http://mademistakes.com
+- title: 리액트
+  url: https://ko.reactjs.org/
+
+- title: 리액트 네이티브
+  url: https://reactnative.dev/
+
+- title: EXPO
+  url: https://docs.expo.io/
+
