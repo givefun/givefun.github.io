@@ -1,0 +1,14 @@
+---
+layout: post
+title: 
+date: 
+categories: 개발도구
+tag : 생산성,개발도구,js,vsc
+---
+
+JavaScript (ES6) code snippets
+
+edf→	exports default function export default function fileName (parameter){ console.log(parameter);};
+ecl→	exports default class export default class Calculator { };
+imp→	imports entire module import fs from 'fs';
+clg→	console log console.log(object)
